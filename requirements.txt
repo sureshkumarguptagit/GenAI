@@ -1,0 +1,9 @@
+Steps:
+Please create a new React project using vite and replace its contents with this zip file.
+For Routing
+Pleas install react-router-dom for routing
+charts and leaflet for open maps. react-chartjs-2 
+ Below are Commands.
+For router react-leaflet react-router-dom
+For maps. npm install react-chartjs-2
+ 
